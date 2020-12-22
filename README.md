@@ -1,8 +1,3 @@
-# Tensorflow-Tutorial
-School Of AI Visakhapatnam - meet-7
-
-![20190619_202718_0000.png](https://github.com/aswit3/Tensorflow-Tutorial/blob/master/2019-09-24.jpg)
-
 # References
 * [Stanford Tensorflow DeepLearning Tutorial](https://web.stanford.edu/class/cs20si/2017/syllabus.html)
 * [Stanford Tensorflow DeepLearning Github](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
